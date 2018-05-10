@@ -2,7 +2,7 @@
 
 ### Overview
 
-"yourNews" is a scraper app which captures the title and image of articles of People Magazine. The user is able to save their preferred articles and  add notes. and edit notes to one or multiple articles. 
+PeopleMagazine App allows the user to scrape recent articles with pictures. The user is able to save their preferred articles and add notes. 
 
 You can check this app using heroku
 
